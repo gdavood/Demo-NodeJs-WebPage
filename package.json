@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "*"
+  },
+  "scripts": {
+    "start": "node app.js",
+  },
+  "name": "basic-node-js",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "Davood",
+  "license" : "MIT",
+  "description": "NodeJS poject with expresss framework and running in docker container"
+}
